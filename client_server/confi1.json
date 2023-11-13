@@ -1,0 +1,7 @@
+{
+    "server": {
+        "host": "localhost",
+        "port": 6000,
+        "buffer_size": 10
+    }
+}
