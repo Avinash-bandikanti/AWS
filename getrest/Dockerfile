@@ -9,8 +9,8 @@ RUN pip install flask
 WORKDIR /app
 
 
-COPY api.py /app/
-COPY config.json /app/
+COPY getrest/api.py /app
+COPY getrest/config.json /app
 
 
 EXPOSE 5000
