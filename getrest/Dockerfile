@@ -9,7 +9,7 @@ RUN pip install flask
 WORKDIR /app
 
 
-COPY getrestapi.py  /app/
+COPY api.py  /app/
 COPY config.json /app/
 
 
