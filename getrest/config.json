@@ -1,7 +1,0 @@
-{
-    "courses": {
-        "1": {"name": "python", "price": 500},
-        "2": {"name": "Java", "price": 5000},
-        "3": {"name": "c", "price": 1000}
-    }
-}
